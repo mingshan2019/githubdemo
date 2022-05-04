@@ -2,7 +2,7 @@ hello world!
 
 
 
-update from feature 1
-update from feature 1
-update from feature 1
-update from feature 1
+update from main
+update from main
+update from main
+update from main
